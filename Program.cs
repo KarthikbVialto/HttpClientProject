@@ -83,6 +83,7 @@ public class Program
                 }
                 AnsiConsole.Write(maletable);
                 #endregion
+                Console.WriteLine("Press Enter to view female employee table");
                 Console.ReadLine();
                 AnsiConsole.Clear();
                 #region female table printing
